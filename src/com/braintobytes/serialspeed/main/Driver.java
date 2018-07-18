@@ -12,9 +12,6 @@ import com.braintobytes.serialspeed.testing.testObjects.ObjectTest1;
 import com.braintobytes.serialspeed.testing.testObjects.ObjectTest2;
 
 
-///////////////
-//V_1.0_Alpha//
-///////////////
 
 /**@author Andrea Gasparini<br><br> <u>LICENSE:</u><br><br>
  *                    GNU AFFERO GENERAL PUBLIC LICENSE
