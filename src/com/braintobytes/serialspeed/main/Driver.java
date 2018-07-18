@@ -12,8 +12,9 @@ import com.braintobytes.serialspeed.testing.testObjects.ObjectTest1;
 import com.braintobytes.serialspeed.testing.testObjects.ObjectTest2;
 
 
-
-
+///////////////
+//V_1.0_Alpha//
+///////////////
 
 /**@author Andrea Gasparini<br><br> <u>LICENSE:</u><br><br>
  *                    GNU AFFERO GENERAL PUBLIC LICENSE
@@ -680,17 +681,11 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 
  */
 
-
-
+/////////////////////////
+//www.braintobytes.com///
+////////////////////////
 public class Driver {
 
 	public static void main(String[] args) {
-
-
-
-
-
-
 	}
-
 }
