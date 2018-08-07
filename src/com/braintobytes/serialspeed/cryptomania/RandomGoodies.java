@@ -98,4 +98,12 @@ public class RandomGoodies {
 	public char[] getNumbers() {
 		return numbers;
 	}
+	
+	public void loadSymbols(String symbols){
+		this.allSymbols = symbols.toCharArray();
+	}
+	
+	public void loadSymbols(char[] symbols){
+		this.allSymbols = symbols;
+	}
 }
